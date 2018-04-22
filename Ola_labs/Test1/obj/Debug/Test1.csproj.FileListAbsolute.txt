@@ -43,3 +43,12 @@ C:\Users\Стас\Desktop\Today\Ola_labs\Test1\obj\Debug\Test1.csprojResolveAsse
 C:\Users\Стас\Desktop\Today\Ola_labs\Test1\obj\Debug\Test1.Form1.resources
 C:\Users\Стас\Desktop\Today\Ola_labs\Test1\obj\Debug\Test1.Properties.Resources.resources
 C:\Users\Стас\Desktop\Today\Ola_labs\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+C:\Users\Стас\Desktop\Today\labs_today\Ola_labs\Test1\bin\Debug\Test1.exe.config
+C:\Users\Стас\Desktop\Today\labs_today\Ola_labs\Test1\obj\Debug\Test1.exe
+C:\Users\Стас\Desktop\Today\labs_today\Ola_labs\Test1\obj\Debug\Test1.pdb
+C:\Users\Стас\Desktop\Today\labs_today\Ola_labs\Test1\bin\Debug\Test1.exe
+C:\Users\Стас\Desktop\Today\labs_today\Ola_labs\Test1\bin\Debug\Test1.pdb
+C:\Users\Стас\Desktop\Today\labs_today\Ola_labs\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\Стас\Desktop\Today\labs_today\Ola_labs\Test1\obj\Debug\Test1.Form1.resources
+C:\Users\Стас\Desktop\Today\labs_today\Ola_labs\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\Users\Стас\Desktop\Today\labs_today\Ola_labs\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache

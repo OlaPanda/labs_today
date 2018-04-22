@@ -110,7 +110,7 @@
             this.AddSecondTime.Name = "AddSecondTime";
             this.AddSecondTime.Size = new System.Drawing.Size(130, 45);
             this.AddSecondTime.TabIndex = 36;
-            this.AddSecondTime.Text = "Add Second Time";
+            this.AddSecondTime.Text = "Add Complex Number(b)";
             this.AddSecondTime.UseVisualStyleBackColor = true;
             this.AddSecondTime.Click += new System.EventHandler(this.AddSecondComplex_Click);
             // 
@@ -120,7 +120,7 @@
             this.AddThirdTime.Name = "AddThirdTime";
             this.AddThirdTime.Size = new System.Drawing.Size(130, 45);
             this.AddThirdTime.TabIndex = 37;
-            this.AddThirdTime.Text = "Add Third Time";
+            this.AddThirdTime.Text = "Add Complex Number(c)";
             this.AddThirdTime.UseVisualStyleBackColor = true;
             this.AddThirdTime.Click += new System.EventHandler(this.AddThirdComplex_Click);
             // 
@@ -130,7 +130,7 @@
             this.AddFirstTime.Name = "AddFirstTime";
             this.AddFirstTime.Size = new System.Drawing.Size(130, 45);
             this.AddFirstTime.TabIndex = 38;
-            this.AddFirstTime.Text = "Add First Time";
+            this.AddFirstTime.Text = "Add Complex Number(a)";
             this.AddFirstTime.UseVisualStyleBackColor = true;
             this.AddFirstTime.Click += new System.EventHandler(this.AddFirstComplex_Click);
             // 
