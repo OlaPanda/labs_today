@@ -1,0 +1,36 @@
+C:\Users\Оля\Desktop\C#\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\Оля\Desktop\C#\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\Оля\Desktop\C#\Test1\Test1\obj\Debug\Test1.Form1.resources
+C:\Users\Оля\Desktop\C#\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\Users\Оля\Desktop\C#\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+C:\Users\Оля\Desktop\C#\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\Оля\Desktop\C#\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\Оля\Desktop\C#\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\Оля\Desktop\C#\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\Оля\Desktop\C#\Stas Labs\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\Оля\Desktop\C#\Stas Labs\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\Оля\Desktop\C#\Stas Labs\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\Оля\Desktop\C#\Stas Labs\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\Оля\Desktop\C#\Stas Labs\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\Оля\Desktop\C#\Stas Labs\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\Оля\Desktop\C#\Stas Labs\Test1\Test1\obj\Debug\Test1.Form1.resources
+C:\Users\Оля\Desktop\C#\Stas Labs\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\Users\Оля\Desktop\C#\Stas Labs\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+C:\Users\Стас\Desktop\my_labs-master\Test1\bin\Debug\Test1.exe.config
+C:\Users\Стас\Desktop\my_labs-master\Test1\obj\Debug\Test1.exe
+C:\Users\Стас\Desktop\my_labs-master\Test1\obj\Debug\Test1.pdb
+C:\Users\Стас\Desktop\my_labs-master\Test1\bin\Debug\Test1.exe
+C:\Users\Стас\Desktop\my_labs-master\Test1\bin\Debug\Test1.pdb
+C:\Users\Стас\Desktop\my_labs-master\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\Стас\Desktop\my_labs-master\Test1\obj\Debug\Test1.Form1.resources
+C:\Users\Стас\Desktop\my_labs-master\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\Users\Стас\Desktop\my_labs-master\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+C:\Users\Стас\Desktop\Today\Russian_labs\Test1\bin\Debug\Test1.exe.config
+C:\Users\Стас\Desktop\Today\Russian_labs\Test1\obj\Debug\Test1.exe
+C:\Users\Стас\Desktop\Today\Russian_labs\Test1\obj\Debug\Test1.pdb
+C:\Users\Стас\Desktop\Today\Russian_labs\Test1\bin\Debug\Test1.exe
+C:\Users\Стас\Desktop\Today\Russian_labs\Test1\bin\Debug\Test1.pdb
+C:\Users\Стас\Desktop\Today\Russian_labs\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\Стас\Desktop\Today\Russian_labs\Test1\obj\Debug\Test1.Form1.resources
+C:\Users\Стас\Desktop\Today\Russian_labs\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\Users\Стас\Desktop\Today\Russian_labs\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
